@@ -4,7 +4,7 @@ Frontend Developer @Instazen
 
 Location: Pune, India
 
-- 🔭 I’m currently working on a component library and ui boilerplate cli.
+- 🔭 I’m currently working on a react, javascript and design system.
 - 🌱 I’m currently learning cli and node.
 - 👯 I’m looking to collaborate on javascript and node projects.
 - 📫 How to reach me: akashdeep.samantra@protonmail.com
