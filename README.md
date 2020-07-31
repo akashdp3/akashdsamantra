@@ -7,7 +7,7 @@ Location: Pune, India
 - 🔭 I’m currently working on a react, javascript and design system.
 - 🌱 I’m currently learning animations, cli and node.
 - 👯 I’m looking to collaborate on javascript and node projects.
-- 📫 How to reach me: [Email](akashdeep.samantra@protonmail.com)
+- 📫 How to reach me: akashdeep.samantra@protonmail.com
 - 😄 Pronouns: he/him
 
 <!--
