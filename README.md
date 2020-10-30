@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Akash
 
 Frontend Developer @Instazen
-
 Location: Pune, India
 
 - 🔭 I’m currently working on a react, javascript and design system.
