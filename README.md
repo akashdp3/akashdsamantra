@@ -8,7 +8,7 @@ Location: Pune, India
 - 🌱 I’m currently learning browser animations, cli and node.
 - 👯 I’m looking to collaborate on javascript and node projects.
 - 💬 Ask me about anything
-- 📫 How to reach me: [akashdeep.samantra@protonmail.com](mailto:akashdeep.samantra@protonmail.com)
+- 📫 How to reach me: [Here](mailto:akashdeep.samantra@protonmail.com)
 - 😄 Pronouns: he/him
 
 <!--
